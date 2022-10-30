@@ -95,8 +95,8 @@ author:
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
 #   email            :
   bio              : ""
-  location         : "India"
-  employer         : "IIT Gandhinagar"
+#   location         : ""
+  employer         : "IIT Gandhinagar, India"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?user=Wcl9Nq0AAAAJ"
   email            : "desai.aadesh@iitgn.ac.in"
