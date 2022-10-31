@@ -1,12 +1,12 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
---- -->
+---
 
 
-# Publications
+<!-- # Publications -->
 
 ### Challenges in Gaussian Processes for Non Intrusive Load Monitoring
   **Aadesh Desai**, Gautam Vasistha, Zeel Patel, Nipun Batra. In **NeurIPS** Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems **(GPSMDMS) 2022**.
