@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-# Publications
+<!-- # Publications -->
 
 
 ## Challenges in Gaussian Processes for Non Intrusive Load Monitoring
