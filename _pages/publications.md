@@ -12,7 +12,7 @@ author_profile: true
    
       **Aadesh Desai**, Gautam Vasistha, Zeel Patel, Nipun Batra. In **NeurIPS** Workshop on Gaussian Processes, Spatiotemporal Modeling, and Decision-making Systems **(GPSMDMS) 2022**.
 
- - ## Deep Gaussian Processes for Fine-grained Air Quality Inference
+  - ## Deep Gaussian Processes for Fine-grained Air Quality Inference
    
       **Aadesh Desai***, Eshan Gujarathi*, Saagar Parikh*, Sachin Yadav*, Zeel Patel, Nipun Batra. In **ACM India** International Conference on Data Science and Management of Data, **Young Researchers’ Symposium Track, CODS-COMAD 2023**.
 
